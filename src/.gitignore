@@ -1,0 +1,4 @@
+*.o
+grabb
+.DS_Store
+Thumbs.db
