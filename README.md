@@ -39,6 +39,21 @@ $ grabb -p luckperms -v 1.21.8 -s paper
 [ success ] Saved as LuckPerms-Bukkit-5.5.17.jar
 ```
 
+## Project Structure
+```
+grabb
+├── README.md
+└── src
+    ├── download.c
+    ├── grabb.h
+    ├── logs.c
+    ├── main.c
+    ├── Makefile
+    ├── network.c
+    ├── search.c
+    └── stats.c
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
