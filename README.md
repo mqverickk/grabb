@@ -1,3 +1,4 @@
+![](https://s6.imgcdn.dev/YPsoB2.png)
 # Grabb
 Grabb is a tools that allows you to grab any plugin you want using Modrinth API just from your terminal.
 
